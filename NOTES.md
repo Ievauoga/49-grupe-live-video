@@ -19,5 +19,7 @@ node_modules
 index.html ! enter (ismes !DOCTYPE)
 13. Prie <title> isirasyti projekto pav</title>
 Terminale: $npm run dev (kad ismestu psl ir ar veikia dalykai)
-
+Sutvarkyti Github: Nueiti i ji-> Settings -> Branch -> Master (Bet kas tik ne None)
+Github griztam i Code -> About-> description (Student project) ->website (kokiam galiu rasti)->Topics (apie ka projektas)
+14. Susikurti README.md (nusikopijuot is anksciau ka turiu)
  -->
