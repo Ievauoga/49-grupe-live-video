@@ -16,5 +16,8 @@ node_modules
 10. Terminale: $git init
 11. Terminale: git add .
 12. Terminale: $ git commit -m "Initial commit" (Git- spausti Publish)
+index.html ! enter (ismes !DOCTYPE)
+13. Prie <title> isirasyti projekto pav</title>
+Terminale: $npm run dev (kad ismestu psl ir ar veikia dalykai)
 
  -->
