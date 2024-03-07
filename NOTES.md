@@ -1,0 +1,20 @@
+<!--
+1. Issirenki dizaina. Ji issisaugai ir persikeli i Paint.
+2. Ji issikerpi tiek kiek realiai naudosi.
+3. Documents susikuri nauja projekta (49-grupe-live-video)
+4. Ji atsidarai Visual Studio Code
+5. Terminale: $npm init -y ( jo pagalba atsiranda package.json)
+6. Terminale: $touch index.html .gitignore
+7. Terminale: npm i -D dead-server
+8. package.json
+"scripts": {
+    "dev": "dead-server --host=localhost --port=4906",
+9. .gitignore:
+node_modules
+.vscode
+.DS_Store
+10. Terminale: $git init
+11. Terminale: git add .
+12. Terminale: $ git commit -m "Initial commit" (Git- spausti Publish)
+
+ -->
