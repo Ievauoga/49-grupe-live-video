@@ -45,6 +45,12 @@ Sudarytas is:
  -----------------------------------------
  index.html issideliojam struktura:
  Siuo atveju: <header>, <main>, <footer>
+ ----------------------------------
+ Kai reikia kelti logo is vieno html failo i kita, pvz i index.html noriu kelti foto is img: <header>
+        <img src="./img/logo.png" alt="HIWOW logo">
+ ---------------------------------------------
+ CSS
+
 
 
 
