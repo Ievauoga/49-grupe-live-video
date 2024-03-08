@@ -40,6 +40,11 @@ Sudarytas is:
     download migtukas ar nuoroda
  Paveiksliukas:
  ----------------------------------------
+ Susitvarkom ir issisaugom kaip mums reikia. Saugom tame paciame dokumente kaip ir visas projektas.
+ Jei per daug nuotrauku, susikuriam img ir sukeliam.
+ -----------------------------------------
+ index.html issideliojam struktura:
+ Siuo atveju: <header>, <main>, <footer>
 
 
 
