@@ -22,4 +22,26 @@ Terminale: $npm run dev (kad ismestu psl ir ar veikia dalykai)
 Sutvarkyti Github: Nueiti i ji-> Settings -> Branch -> Master (Bet kas tik ne None)
 Github griztam i Code -> About-> description (Student project) ->website (kokiam galiu rasti)->Topics (apie ka projektas)
 14. Susikurti README.md (nusikopijuot is anksciau ka turiu)
+-------------------------------------
+Dizainas:
+Sudarytas is:
+ Virsutine dalis HEADER:
+      jis suskaidytas i logotipa
+      desiniam sone turi navigacija
+      navigacija turi savo individualias nuorodas
+      jei tinkame psl, jis nurodo jog ten esi
+ Apatine dalis:
+     socialiniai tinklai su savo ikonelem
+     ikoneles pavaizduotos kaip nuorodos
+ Pagrindas:
+ Turi tekstini stulpeli:
+    antraste
+    paragrafas
+    download migtukas ar nuoroda
+ Paveiksliukas:
+ ----------------------------------------
+
+
+
+
  -->
