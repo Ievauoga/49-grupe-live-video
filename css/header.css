@@ -1,13 +1,32 @@
-header {
-    background-color: yellow;
+.logo {
+    float: left;
+    height: 50px;
 }
 
-header > img {
+header>nav {
+    .main-nav {
+        margin-top: 13px;
+        float: right;
+    }
 
-}
-header > nav {
+    header a {
+        .link {
+            color: blue;
+            float: left;
+            padding: 10px 0;
+            margin-right: 20px;
+            font-size: 20px;
+            line-height: 20px;
+            border-bottom: 10px solid green;
+            text-decoration: none;
+        }
 
-}
-header a {
-    
-}
+        header a:last-child {
+            .link:last-child {
+                margin-right: 0;
+            }
+
+            header a:hover {
+                .link:hover {
+                    background-color: red;
+                }

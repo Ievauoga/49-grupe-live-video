@@ -1,4 +1,19 @@
-  footer {
-      background-color: red;
+.social-list {
+  float: left;
+}
 
-  }
+.social-list>.icon {
+  float: left;
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  background-color: lightblue;
+}
+
+.social-list>.icon:last-child {
+  margin-right: 0;
+}
+
+.copyright {
+  float: right;
+}
