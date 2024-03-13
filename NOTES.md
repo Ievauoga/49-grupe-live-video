@@ -220,6 +220,81 @@ main > div {
   Main;
   Header;
 
+   -->
 
+   <!-- 
+   Kaip padaryti, kad header, main ir footer butu vienodo plocio:
+   Ekrano plotis 100 %, o pvz elementas 800 px, jei noriu centro, 
+   jis turi buti atsistumes nuo abieju pusiu.
+    -->
+  <!-- 
+   Kai  norim header iscentruoti teksta, tada naudojam formule 50%-400px;
+     header {
+        display: inline-block;
+        width: 800px;
+        margin-left: 50% - 400px;
+        background-color: yellow;
+     }
 
+     Jei matom, kad neveikia, reikia inspektinti
+     ir pataisyti i: 
+     margin-left: calc(50% - 400px);
+
+  -->
+
+  <!-- 
+    Jei norim, kad butu is abieju pusiu 
+    atsitraukia ir niekas neuzeiti i header vieta,
+    reikia atsistumimo is abieju pusiu:
+
+    margin: 0 calc(50% - 400px);
+   -->
+
+   <!-- 
+   Kuo skiriasi header, main ir footer. Header turi display: line-block;
+   todel jis elgiasi kitaip ir turi tarpa ir nepersidengia. Todel by default, 
+   jei elementai yra blokiniai (display block), tai tada margin persidengia.
+   Jei jie yra inline block, bent vienas. Jis turi kiekvienas savo zonas
+   ir margin yra atskiri. 
+   
+    -->
+
+  <!-- 
+  CLASS - klase:
+  Jos tikslas sustilizuoti pagrindine antraste. 
+  pvz 
+  Main.css
+ 
+  .main-title{
+    font-size: 40px;
+    color: red;
+  } 
+  Kaip naudojamos klases: pasiimam dominanti elementa ir susikuri jo viduj klases atributa.:
+  Index.html <main>
+               <div>
+               <h1 class= "main-title">Live video</h1>
+   -->
+<!-- container.
+ Isirasome ji i base, kad butu visiems naudojamas ir tada i index.html prie kiekvieno, kad matytu
+
+ -->
+
+ <!-- 
+ Mintis:
+
+ jei kazkur kazkas nesuvaiksto, beda bus su selektoriais.
+ 
+  -->
+
+  <!-- 
+  Flexbox:
+
+  Jei kalbesim apie tevini elementa .container
+, jei apie aikus .item
+
+Tam, kad isijungtu flexbox: butinai reikia 
+display: flex;
+Kai isijungia flex, tai isijungia kitos savybes.
+
+  
    -->
