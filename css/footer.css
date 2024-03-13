@@ -1,5 +1,7 @@
 .social-list {
   float: left;
+  display: flex;
+  gap: 20px;
 }
 
 .social-list>.icon {
@@ -16,4 +18,5 @@
 
 .copyright {
   float: right;
+  font-style: italic;
 }

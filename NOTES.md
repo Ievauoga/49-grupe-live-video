@@ -298,3 +298,22 @@ Kai isijungia flex, tai isijungia kitos savybes.
 
   
    -->
+
+   <!-- 
+   Flex direction nustato pagrindines asies krypti.
+   Pvz jei Flex-direction: column, tai ir ziures,
+   kad pagrindine asis nuo virsaus i apacia.
+   
+    -->
+
+   <!-- 
+   Ka daryti jei norim, kad footer butu psl apacioje?
+
+   Galim Main padidinti taip, kad butu footeri nusumtu
+    kiek imanoma zemiau:
+
+   main.contaiter {
+    min-height: calc (100vh - 160 px); header aukstis(ji nulemia logo, dar marginai ateina) ir fotterio aukstis (ikonos ir konteinerio aukstis)
+
+   }
+    -->

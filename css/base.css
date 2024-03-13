@@ -12,6 +12,7 @@ body {
 }
 
 .container {
+    display: inline-block;
     display: flex;
     justify-content: space-between;
     align-items: center;

@@ -1,22 +1,29 @@
 .logo {
+    float: left;
+    height: 50px;
     height: 40px;
 }
 
 .main-nav {
+    margin-top: 13px;
+    float: right;
     display: flex;
     gap: 20px;
 }
 
 .link {
     color: blue;
+    float: left;
+    margin-right: 20px;
     font-size: 20px;
+    line-height: 20px;
     text-decoration: none;
+}
+
+.link:last-child {
+    margin-right: 0;
 }
 
 .link:hover {
     background-color: red;
-}
-
-.link:focus {
-    background-color: green;
 }
