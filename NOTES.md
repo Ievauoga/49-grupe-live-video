@@ -317,3 +317,28 @@ Kai isijungia flex, tai isijungia kitos savybes.
 
    }
     -->
+ <!-- 
+  Kodel reikalingas underskoras. Gale parasyta blank, by default??
+
+    <footer class="container">
+            <div class="social-list">
+                <a class="icon fa fa-twitter" href="https://www.example.com" target="_blank"></a>
+ 
+  -->
+  <!-- 
+  Kaip ikelti nuotrauka?
+  Reikia savybiu. Pvz keisis ozicionavimo savybe. Visi elementai turi position: static;
+  Vienas is efektu, kuris atsiranda, visi tarsi gyvena 1 plokstumoje. 
+  Jei pasirenkam position: absoliut; tai nuotrauka butu ekrano teritorijoje.
+  
+   -->
+
+   <!-- 
+   Visi elementai pradedami delioti virsuje, kaireje.
+
+   Pirmenybe ima fiksuoti dydziai: plotis aukstis, jei nesipyksta. Ir turi buti position: absoliut;
+    -->
+
+<!--
+
+  -->

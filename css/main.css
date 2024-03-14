@@ -13,6 +13,20 @@ main.container {
     float: left;
 }
 
+.fa-close {
+    font-size:20px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background-color: red;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+
 .main-title {
     font-size: 64px;
     line-height: 48px;
