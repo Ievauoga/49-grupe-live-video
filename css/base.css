@@ -1,3 +1,32 @@
+ /* Jei pas mus komp. nera kokio nors srifto, kuris yra musu projekte */
+
+@font-face {
+    font-family: 'Cepelina';
+    src: url('../fonts/cepelinai.eot?v=4.7.0');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cepelinai';
+    src: url('../fonts/cepelinai-bold.eot?v=4.7.0');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cepelinai';
+    src: url('../fonts/cepelinai-italic.eot?v=4.7.0');
+    font-weight: normal;
+    font-style: italic;
+}
+/* 
+div{
+    font-family: Cepelinai;
+    font-weight: bold;
+    font-style: italic;
+} */
+
 body,
 body * {
     margin: 0;
