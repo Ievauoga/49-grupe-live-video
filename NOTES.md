@@ -340,5 +340,9 @@ Kai isijungia flex, tai isijungia kitos savybes.
     -->
 
 <!--
+RESPONSIVE DESIGN:
+Kaip susisiaurinri visa turini?
+base.css->
+@media (ekrano plotis(nuo kokio plocio isijungia visos taisykles, jos gali overridint naujas taisykles)) {}
 
   -->
