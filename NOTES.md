@@ -346,3 +346,16 @@ base.css->
 @media (ekrano plotis(nuo kokio plocio isijungia visos taisykles, jos gali overridint naujas taisykles)) {}
 
   -->
+
+  <!-- 
+  Spalvos:
+
+  Pain-> pipete-> nueinam kokios norim spalvos ir prie colors spaudziam ->More
+
+  #------;
+
+  Jei rgb is 3 skaiciu, bus nepersvieciamas fonas,
+  Jei rgba- persvieciamas.
+  Pvz: rgba(255, 153,nuo 0 iki (nusako matomuma)1);
+  
+   -->

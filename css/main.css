@@ -1,6 +1,4 @@
 main.container {
-    margin-top: 120px;
-    margin-bottom: 120px;
     min-height: calc(100vh - 160px);
 }
 
@@ -10,7 +8,6 @@ main.container {
     align-items: flex-start;
     gap: 40px;
     width: 50%;
-    float: left;
 }
 
 .fa-close {
@@ -32,13 +29,14 @@ main.container {
     line-height: 48px;
     text-transform: uppercase;
     color: black;
-    margin-bottom: 40px;
+    padding:20px;
+    background-color: #fff;
 }
 
 .description {
     font-size: 18px;
-    margin-bottom: 60px;
     margin-bottom: 20px;
+    background-color: #fff;
 }
 
 .btn {
